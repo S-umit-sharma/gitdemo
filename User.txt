@@ -1,3 +1,8 @@
 Get user datagit 
 
 This is where i am learnign about branches
+
+create the avataar
+
+login and logout
+
