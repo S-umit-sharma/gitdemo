@@ -4,6 +4,7 @@ This is where i am learnign about branches
 
 create the avataar this is avatar
 
-login and logout
+login and logout lgout
 
 change 1
+ajlfb
