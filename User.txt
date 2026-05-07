@@ -2,7 +2,7 @@ Get user datagit
 
 This is where i am learnign about branches
 
-create the avataar
+create the avataar this is avatar
 
 login and logout
 
